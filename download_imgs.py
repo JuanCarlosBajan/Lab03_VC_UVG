@@ -20,6 +20,6 @@ def descargar_imagenes_github(url, ruta_destino):
 
 # URL de la API de GitHub para listar archivos en un directorio
 url_api = "https://api.github.com/repos/BIDS/BSDS500/contents/BSDS500/data/images/test?ref=master"
-ruta_destino = './Descargas_BSDS500'
+ruta_destino = './Descargas_BSDS500/imgs'
 
 descargar_imagenes_github(url_api, ruta_destino)
