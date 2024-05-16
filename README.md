@@ -66,4 +66,4 @@ pip install tensorflow keras numpy matplotlib scikit-image jupyter
 
 Below is an example of the final result:
 
-![Results](Descargas_BSDS500\final_output.png)
+![Results](./Descargas_BSDS500/final_output.png)
